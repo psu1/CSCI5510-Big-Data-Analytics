@@ -1,0 +1,6 @@
+plot_describtion
+
+1)first 20 eigenvectors: for eigenvector which corresponding eigenvalues is bigger, it contains more common information shared by the whole grouop
+
+
+2)function(eigenvalues,dimensions): the function decay exponentially.

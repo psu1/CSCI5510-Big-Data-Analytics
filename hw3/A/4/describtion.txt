@@ -1,0 +1,6 @@
+describtion
+
+1)first 20 eigenvectors:the eigenvectors looks like the mixture of three-digit's characteristics
+
+
+2)function(eigenvalues,dimensions):the function decay exponentially.
